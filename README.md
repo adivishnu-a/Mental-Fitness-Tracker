@@ -11,7 +11,7 @@ Show some ❤️ by starring the repository! ⭐
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository (or download the [notebook](https://github.com/adivishnu-a/Mental-Fitness-Tracker/blob/main/Mental_Fitness_Traker.ipynb)):
 ```shell
 git clone https://github.com/adivishnu-a/Mental-Fitness-Tracker.git
 ```
@@ -21,7 +21,7 @@ git clone https://github.com/adivishnu-a/Mental-Fitness-Tracker.git
 pip install pandas numpy matplotlib scikit-learn
 ```
 
-3. Download the datasets(If not cloned, but downloaded files individually):
+3. Download the datasets(If not cloned):
    - Dataset 1: [Download Link](https://github.com/adivishnu-a/Mental-Fitness-Tracker/blob/main/datasets/mental-and-substance-use-as-share-of-disease.csv)
    - Dataset 2: [Download Link](https://github.com/adivishnu-a/Mental-Fitness-Tracker/blob/main/datasets/prevalence-by-mental-and-substance-use-disorder.csv)
    - Place the downloaded datasets in the `datasets` folder.
